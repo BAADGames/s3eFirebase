@@ -1,0 +1,6 @@
+include:
+#include <s3eTypes.h>
+  
+functions:
+
+void s3eFirebaseInitialize() run_on_os_thread
